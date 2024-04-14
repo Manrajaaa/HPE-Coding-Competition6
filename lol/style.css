@@ -1,0 +1,31 @@
+a:link, a:visited {
+    color :white;
+    text-decoration:dashed;
+    cursor:crosshair;
+    text-align: middle;
+    padding-left: 510px;
+}
+a:link:active, a:visited:active{
+    color :orangered;
+    text-align: middle;
+    padding-left: 510px;
+}
+a{
+    font-size: 23px;
+}
+body{
+    background-color: black;
+}
+p{
+    color :white;
+    text-align:middle;
+    font-size: 21px;
+}
+h1{
+    color:yellowgreen;
+    padding-left:510px;
+}
+img{
+    vertical-align: middle;
+    padding-left: 530px;
+}
